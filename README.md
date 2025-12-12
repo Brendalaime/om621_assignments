@@ -34,7 +34,7 @@ In this short video I walk through:
 │   ├── delay_dist_by_mode.png
 │   └── invoice_ts_by_mode.png
 ├── pbi/                        # Power BI files (PBIX) and exported visuals
-│   ├── OM621_Dashboard.pbix           (placeholder)
+│   ├── OM621_Assignment4.pbix          (placeholder)
 │   └── exports/                        (optional images/PDFs)
 ├── assets/
 │   └── video_overview.mp4      # 3–5 minute recorded walkthrough (placeholder)
@@ -72,7 +72,7 @@ pip install pandas numpy plotnine
 ```
 
 **Power BI:**  
-Open `pbi/OM621_Assignment4.pbix` in Power BI Desktop **[pbi/OM621_Assignment4.pbix](pbi/OM621_Assignment4.pbix)**
+Open **[pbi/OM621_Assignment4.pbix](pbi/OM621_Assignment4.pbix)** in Power BI Desktop
 
 ---
 
