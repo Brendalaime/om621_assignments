@@ -49,10 +49,7 @@ In this short video I walk through:
 ## 🧭 Fast Start
 
 **To reproduce the Python analysis:**
-1. Ensure the dataset exists at `data/tr_data_22_24.csv`.
-2. Open and run `notebooks/OM621_A2_A3_Combined.ipynb` **top‑to‑bottom**.
-3. Plots will be saved automatically to `plots/`.
-- **Notebook (single, cohesive):** [notebooks/OM621_A2_A3_Combined.ipynb](notebooks/OM621_A2_A3_Combined.ipynb)
+- **Notebook (single doc):** [notebooks/OM621_A2_A3_Combined.ipynb](notebooks/OM621_A2_A3_Combined.ipynb)
 - **Key plots:**  
   - [plots/delay_dist_by_mode.png](plots/delay_dist_by_mode.png)  
   - [plots/invoice_ts_by_mode.png](plots/invoice_ts_by_mode.png)
