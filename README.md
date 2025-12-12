@@ -65,6 +65,7 @@ pip install pandas numpy plotnine
 
 **Power BI:**  
 Open `pbi/OM621_Dashboard.pbix` in Power BI Desktop (placeholder, included to host dashboard work for Milestone IV).
+Open **[pbi/OM621_Assignment4.pbix](pbi/OM621_Assignment4.pbix)** in Power BI Desktop.
 
 ---
 
