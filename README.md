@@ -2,7 +2,7 @@
 # OM 621 — Advanced Visual Analytics
 ## Assignments 1–3 (Milestone IV) • Repository README
 
-**Author:** Brenda Laime Jalil  
+**Student:** Brenda Laime Jalil  
 **Course:** OM 621 — Advanced Visual Analytics (Fall 2025)
 
 > This repo is my complete, end‑to‑end story for the **Transportation Cost Estimation & Forecasting** case.  
