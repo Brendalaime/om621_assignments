@@ -10,15 +10,18 @@
 
 ---
 
-## 🎥 3–5 Minute Video Overview (Watch First)
-**Video:** `assets/video_overview.mp4` (placeholder)  
+## 🎞️ Slides (3–5 min talk track)
+
+**Download the slides:** [slides/OM621_Milestone_IV_Brenda_Laime.pptx](slides/OM621_Milestone_IV_Brenda_Laime.pptx)
+
+> I recorded my narration separately while presenting these slides.  
+> If you prefer a quick skim, the key plots are also in [`plots/`](plots/).
+
 In this short video I walk through:
 - The **3‑minute story** from Assignment 1 (stakeholders, problem, why it matters)
 - A quick tour of the **combined Python notebook** (A2+A3) and the main visuals
 - A peek at the **Power BI** dashboard (time‑series patterns by mode & seasonality)
 - Key takeaways and **what I’d do next** for better forecasting
-
-> If you’d like to record a similar walkthrough yourself, Zoom’s screen‑recording guide is helpful: https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063640
 
 ---
 
