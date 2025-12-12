@@ -39,8 +39,8 @@ In this short video I walk through:
 ├── pbi/                        # Power BI files (PBIX) and exported visuals
 │   ├── OM621_Assignment4.pbix          (placeholder)
 │   └── exports/                        (optional images/PDFs)
-├── assets/
-│   └── video_overview.mp4      # 3–5 minute recorded walkthrough (placeholder)
+├── slides/
+│   └── OM621_Milestone_IV_Brenda_Laime.pptx
 ├── README.md                   # You are here
 └── LICENSE                     # (optional)
 ```
