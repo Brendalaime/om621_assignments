@@ -92,7 +92,7 @@ Open `pbi/OM621_Dashboard.pbix` in Power BI Desktop (placeholder, included to ho
 
 ## 🐍 Assignments 2 & 3 — Single Combined Notebook (Python)
 
-**Notebook:** `notebooks/OM621_A2_A3_Combined.ipynb` (standalone + cohesive)  
+**Notebook:** `notebooks/OM621_A2_A3_Combined.ipynb`  
 What it does, in order:
 1. **Data expectation vs reality (A2.Q1):** What I expected (from A1) vs. what’s in the file; risks (missing site/division, label typos) and how I mitigate them.
 2. **Basic exploration (A2.Q2):** Non‑null audit and invoice stats (mean/median/IQR/min/max).  
@@ -114,8 +114,6 @@ What it does, in order:
    - **Seasonality:** recurring shape in several modes.  
    - **Trend:** container modes trend up; parcel/air flatter.  
    - **Recipe:** forecast each mode separately (seasonal baseline + recent trend), adjust accruals using **median delay by mode**, add buffers for container modes’ long tails.
-
-> Tone: I keep the write‑ups short, human, and practical (what I see, why it matters, what to do).
 
 ---
 
@@ -172,4 +170,4 @@ Thanks to my OM 621 cohort and Professor Karimi for the structure and feedback
 
 ---
 
-*If you’re reviewing this repo, start with the video, skim the plots, and then open the combined notebook for details. Feedback is always welcome.*
+*If you’re reviewing this repo, start with the video, skim the plots, and then open the combined notebook for details.*
