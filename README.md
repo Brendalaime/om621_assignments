@@ -52,6 +52,17 @@ In this short video I walk through:
 1. Ensure the dataset exists at `data/tr_data_22_24.csv`.
 2. Open and run `notebooks/OM621_A2_A3_Combined.ipynb` **top‑to‑bottom**.
 3. Plots will be saved automatically to `plots/`.
+- **Notebook (single, cohesive):** [notebooks/OM621_A2_A3_Combined.ipynb](notebooks/OM621_A2_A3_Combined.ipynb)
+- **Key plots:**  
+  - [plots/delay_dist_by_mode.png](plots/delay_dist_by_mode.png)  
+  - [plots/invoice_ts_by_mode.png](plots/invoice_ts_by_mode.png)
+- **Power BI:** [pbi/OM621_Assignment4.pbix](pbi/OM621_Assignment4.pbix)
+
+## Quick start
+1) Put the CSV at **[data/tr_data_22_24.csv](data/tr_data_22_24.csv)**  
+2) Open **[notebooks/OM621_A2_A3_Combined.ipynb](notebooks/OM621_A2_A3_Combined.ipynb)** and run all cells.  
+3) Plots export to **[plots/](plots/)** automatically.
+
 
 **Python deps (tested locally):**
 - `pandas`, `numpy`
@@ -64,8 +75,7 @@ pip install pandas numpy plotnine
 ```
 
 **Power BI:**  
-Open `pbi/OM621_Dashboard.pbix` in Power BI Desktop (placeholder, included to host dashboard work for Milestone IV).
-Open **[pbi/OM621_Assignment4.pbix](pbi/OM621_Assignment4.pbix)** in Power BI Desktop.
+Open `pbi/OM621_Assignment4.pbix` in Power BI Desktop **[pbi/OM621_Assignment4.pbix](pbi/OM621_Assignment4.pbix)**
 
 ---
 
